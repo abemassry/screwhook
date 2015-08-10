@@ -8,8 +8,8 @@ vertex 0.837619 7 29.0333
   endfacet
   facet normal 0 0 0
     outer loop
-vertex 0.837619 -10 0.0333333
-vertex 0.837619 10 0.0333333
+vertex 0.837619 -7 0.0333333
+vertex 0.837619 7 0.0333333
 vertex 0.837619 1.98292e-15 11.6333
     endloop
   endfacet
